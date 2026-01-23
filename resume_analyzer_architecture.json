@@ -1,0 +1,81 @@
+{
+  "frontend": {
+    "technology": "HTML5, CSS3, JavaScript",
+    "framework": "Vanilla JS with modern CSS Grid/Flexbox",
+    "features": [
+      "Resume upload (PDF/DOC)",
+      "Job description input",
+      "Real-time analysis dashboard",
+      "Interactive charts and visualizations",
+      "Responsive design",
+      "Dark/light theme toggle",
+      "Progress indicators",
+      "Results export functionality"
+    ]
+  },
+  "backend": {
+    "technology": "Python",
+    "libraries": [
+      "PyPDF2 - PDF text extraction",
+      "python-docx - DOCX file handling",
+      "spaCy - NLP processing",
+      "scikit-learn - Machine learning",
+      "NLTK - Text processing",
+      "pandas - Data manipulation",
+      "numpy - Numerical operations"
+    ],
+    "ml_models": [
+      "TF-IDF Vectorizer for text similarity",
+      "Named Entity Recognition for information extraction",
+      "Keyword extraction algorithms",
+      "Resume classification models"
+    ]
+  },
+  "features": {
+    "core_functionality": [
+      "Resume text extraction from PDF/DOC",
+      "Named entity recognition for personal info",
+      "Skills extraction and categorization",
+      "Experience parsing and analysis",
+      "Education information extraction",
+      "Job description matching",
+      "ATS compatibility scoring",
+      "Resume completeness analysis"
+    ],
+    "analysis_metrics": [
+      "Overall resume score (0-100)",
+      "Skills match percentage",
+      "Experience relevance score",
+      "Formatting and structure score",
+      "ATS compatibility rating",
+      "Missing skills identification",
+      "Career recommendations"
+    ],
+    "visualizations": [
+      "Interactive dashboard with key metrics",
+      "Skills match radar chart",
+      "Experience timeline visualization",
+      "Competitive analysis charts",
+      "Progress tracking gauges"
+    ]
+  },
+  "user_interface": {
+    "design_principles": [
+      "Clean, modern interface",
+      "Intuitive user workflow",
+      "Responsive design for all devices",
+      "Professional color scheme",
+      "Clear typography hierarchy",
+      "Smooth animations and transitions"
+    ],
+    "pages": [
+      "Landing page with feature overview",
+      "Resume upload interface",
+      "Job description input form",
+      "Analysis dashboard",
+      "Detailed results page",
+      "Recommendations and tips",
+      "Export and sharing options"
+    ]
+  }
+}

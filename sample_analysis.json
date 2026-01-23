@@ -1,0 +1,44 @@
+{
+  "overall_score": 87,
+  "breakdown": {
+    "completeness": 92,
+    "relevance": 85,
+    "formatting": 78,
+    "experience": 90,
+    "skills": 88
+  },
+  "skills_analysis": {
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Git"
+    ],
+    "missing_skills": [
+      "Docker",
+      "AWS",
+      "TensorFlow"
+    ],
+    "skill_categories": {
+      "programming": 85,
+      "data_science": 90,
+      "cloud_computing": 45,
+      "version_control": 95
+    }
+  },
+  "recommendations": [
+    "Add Docker and containerization experience",
+    "Include cloud computing certifications (AWS/Azure)",
+    "Improve resume formatting for better ATS compatibility",
+    "Add quantifiable achievements in work experience",
+    "Consider adding personal projects section"
+  ],
+  "ats_compatibility": {
+    "score": 78,
+    "issues": [
+      "Use standard section headings",
+      "Avoid complex formatting",
+      "Include more keywords from job description"
+    ]
+  }
+}
