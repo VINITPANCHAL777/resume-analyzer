@@ -46,3 +46,7 @@ Feel free to submit issues and enhancement requests.
 ## License
 
 MIT License
+<img width="959" height="490" alt="image" src="https://github.com/user-attachments/assets/0a6dd39b-aa75-4cbf-8100-7708777f5776" />
+
+<img width="955" height="484" alt="image" src="https://github.com/user-attachments/assets/cc10db03-c030-471a-bb45-bca289ba0650" />
+
